@@ -166,7 +166,7 @@ footer {
  color: #ffffff;
 }
 
-@media (max-width: 860px) {
+@media only screen and (max-device-width: 480px) {
  main {
    background-image: url('https://content.codecademy.com/courses/intermediate-javascript-requests/wanderlust/background_photo_moble.jpg');
  }
